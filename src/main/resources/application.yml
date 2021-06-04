@@ -6,8 +6,7 @@ server:
 spring:
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: 
-postgres://pneqamowzgrqlh:36cc057b02184b63316f3df279d9029e444064929896007a5d4ac5fbca04659c@ec2-54-163-97-228.compute-1.amazonaws.com:5432/d6gbpb0hnt09dp
+    url: postgres://pneqamowzgrqlh:36cc057b02184b63316f3df279d9029e444064929896007a5d4ac5fbca04659c@ec2-54-163-97-228.compute-1.amazonaws.com:5432/d6gbpb0hnt09dp
     username: pneqamowzgrqlh
     password: 36cc057b02184b63316f3df279d9029e444064929896007a5d4ac5fbca04659c
   jpa:
